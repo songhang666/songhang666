@@ -5,7 +5,7 @@ Developer, Designer & Editor
 ----------------------------
 
 * 🌍  I'm based in Beijing, China
-* 🖥️  See my portfolio at [Terry Soong](http://site.songhang666.repl.co )
+* 🖥️  See my portfolio at [George Soong](http://site.songhang666.repl.co )
 * ✉️  You can contact me at [songhanghang666@gmail.com](mailto:songhanghang666@gmail.com)
 * 🚀  I'm currently working on [colorhub](http://colorhub.vercel.app)
 * 🧠  I'm learning I'm open to collaborating on interesting projects as a developer or designer
